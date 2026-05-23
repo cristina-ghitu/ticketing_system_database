@@ -5,7 +5,9 @@ Technologies Used
 - MySQL relational database management system
 
 
+
 Database Structure
+
 The project currently includes the following tables:
 | Table      | Purpose                            |
 | ---------- | ---------------------------------- |
