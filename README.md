@@ -6,7 +6,9 @@ Technologies Used
 
 
 
+
 Database Structure
+
 The project currently includes the following tables:
 | Table      | Purpose                            |
 | ---------- | ---------------------------------- |
