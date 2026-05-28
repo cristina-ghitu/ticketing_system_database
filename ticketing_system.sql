@@ -20,7 +20,6 @@ CREATE TABLE tickets (
     
     created_by INT NOT NULL,
     assigned_to INT,
-    category_id INT,
     
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
