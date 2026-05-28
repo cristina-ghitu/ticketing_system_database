@@ -55,8 +55,7 @@ INSERT INTO tickets (
     description,
     priority,
     created_by,
-    assigned_to,
-    category_id
+    assigned_to
 )
 VALUES
 (
@@ -64,15 +63,13 @@ VALUES
     'I forgot my password and reset is not working.',
     'high',
     1,
-    2,
-    1
+    2
 ),
 (
     'Laptop wont turn on',
     'Spilled coffee on keyboard, screen black.',
     'medium',
     1,
-    2,
     2
 ),
 (
@@ -80,7 +77,6 @@ VALUES
     'Laptop crashes with blue screen after login.',
     'high',
     1,
-    2,
     2
 ),
 (
@@ -88,8 +84,7 @@ VALUES
     'Password reset email never arrives.',
     'medium',
     1,
-    3,
-    1
+    3
 );
 
 
